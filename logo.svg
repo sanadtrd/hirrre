@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="40" width="148">
+  <g opacity="1">
+    <g opacity="1">
+      <text font-size="0" transform="translate(110, 12)">
+        <tspan font-size="17" font-family="Gilroy" font-weight="700" style="white-space: pre;text-transform: none" fill="rgb(49,27,146)" x="0" y="13">beta</tspan>
+      </text>
+    </g>
+    <g opacity="1">
+      <text font-size="0" transform="translate(0, 0)">
+        <tspan font-size="40" font-family="Gilroy" font-weight="700" style="white-space: pre;text-transform: none" fill="rgb(51,51,51)" x="0" y="31">Hi</tspan>
+        <tspan font-size="40" font-family="Gilroy" font-weight="700" style="white-space: pre;text-transform: none" fill="rgb(49,27,146)">rrr</tspan>
+        <tspan font-size="40" font-family="Gilroy" font-weight="700" style="white-space: pre;text-transform: none" fill="rgb(51,51,51)">e</tspan>
+      </text>
+    </g>
+  </g>
+</svg>
